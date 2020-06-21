@@ -109,7 +109,6 @@ def changing_alan
         }
      }
 
-
 end
 
 def adding_to_dennis
